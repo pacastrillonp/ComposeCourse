@@ -1,4 +1,4 @@
-package co.pacastrillonp.jetpackcomposeinstagram.model
+package co.pacastrillonp.jetpackcomposeinstagram.ui.catalog.model
 
 sealed class Routes(val route: String) {
 
