@@ -1,4 +1,4 @@
-package co.pacastrillonp.jetpackcomposeinstagram.ui
+package co.pacastrillonp.jetpackcomposeinstagram.ui.catalog
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
